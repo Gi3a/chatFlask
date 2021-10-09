@@ -1,6 +1,6 @@
 # chatFlask
 Web-chat on python flask
-![alt tag](https://github.com/Gi3a/chatFlask/blob/main/screen.png)
+![alt tag](https://github.com/Gi3a/chatFlask/blob/main/scren.png)
 
 ## How to install
 ### Creating virtual env
